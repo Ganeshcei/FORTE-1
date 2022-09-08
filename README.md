@@ -105,6 +105,6 @@ Now docker container is ready, Run the test scripts using below commands,
        &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;2.6.Generate Allure result<br/>
        &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; 3.Copy allure results from docker container<br/>
        &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; 4. Publish Allure results as artifacts <br/>
-       &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; 5. Publish Allure results to Github page<br/>
+       &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; 5. Publish Allure results to Github pages<br/>
 
  ![Flow](https://user-images.githubusercontent.com/110914539/188542865-f601154e-652d-4ced-9a8b-b790216658bb.JPG)
