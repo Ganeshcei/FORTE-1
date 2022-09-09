@@ -1,1 +1,0 @@
-Smoke test Example 2
