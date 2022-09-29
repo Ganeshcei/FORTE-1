@@ -1,1 +1,0 @@
-path /tests/testData/webTestData/LoginPage/LoginPage.dev.json
