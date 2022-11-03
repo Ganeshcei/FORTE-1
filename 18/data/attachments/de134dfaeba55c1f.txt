@@ -1,1 +1,0 @@
-//td[@controlname='Item category code']/div/div/img

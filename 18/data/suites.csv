@@ -1,6 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Nov 03 07:14:06 GMT 2022","Thu Nov 03 07:14:31 GMT 2022","25516","chromium","CustomerHomologationtest.spec.js","","","","@homologation Test 3 -> CustomerHomologation Correct CustomerNo and Correct Item Code",""
-"passed","Thu Nov 03 07:14:31 GMT 2022","Thu Nov 03 07:14:55 GMT 2022","24097","chromium","CustomerHomologationtest.spec.js","","","","@homologation Test 4 -> CustomerHomologation Correct CustomerNo and Wrong Item Code",""
-"passed","Thu Nov 03 07:13:41 GMT 2022","Thu Nov 03 07:14:06 GMT 2022","24549","chromium","CustomerHomologationtest.spec.js","","","","@homologation Test 2 -> CustomerHomologation Wrong CustomerNo and Correct Item Code",""
-"passed","Thu Nov 03 07:14:55 GMT 2022","Thu Nov 03 07:15:19 GMT 2022","24031","chromium","CustomerHomologationtest.spec.js","","","","@homologation Test 5 -> CustomerHomologation Wrong CustomerNo and Wrong Item Code",""
-"passed","Thu Nov 03 07:13:12 GMT 2022","Thu Nov 03 07:13:41 GMT 2022","29186","chromium","CustomerHomologationtest.spec.js","","","","@homologation Test 1 -> Creating Customer",""

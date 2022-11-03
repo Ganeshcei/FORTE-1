@@ -1,1 +1,0 @@
-//td[@controlname='Customer no.']/div/div/img
